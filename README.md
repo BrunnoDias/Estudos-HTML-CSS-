@@ -1,5 +1,5 @@
-# EstudosJS
+# EstudosJS 
 
-Neste repositorio será alimentado com todos os conteudos de estudos de Java Script
+Este repositorio será alimentado com todos os apredizados recebidos no bootcamp Serasa.
 
 
