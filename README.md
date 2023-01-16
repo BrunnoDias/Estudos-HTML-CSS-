@@ -1,3 +1,5 @@
 # EstudosJS
 
-Neste repositorio receberá todos os conteus de estudos de Java Script
+Neste repositorio será alimentado com todos os conteudos de estudos de Java Script
+
+
