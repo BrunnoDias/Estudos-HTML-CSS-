@@ -35,6 +35,17 @@ figcaption {
 }
 
 p{
-    text-align: justify;
+    text-align: justify; 
     
+}
+
+.contato_info{
+    margin-top: 16px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 24px;
+}
+
+.contato_subtitulo{
+    display: inline ;
 }
